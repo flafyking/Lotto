@@ -1,0 +1,5 @@
+﻿  pch.cpp
+  Lotto.cpp
+c:\users\flafyking\source\repos\lotto\lotto\lotto.cpp(41): warning C4244: "argument": konwersja z "time_t" do "unsigned int", możliwa utrata danych
+c:\users\flafyking\source\repos\lotto\lotto\lotto.cpp(74): warning C4018: "<": niezgodność typu ze znakiem/bez znaku
+  Lotto.vcxproj -> C:\Users\FlafyKing\source\repos\Lotto\Debug\Lotto.exe
